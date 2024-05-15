@@ -1,0 +1,11 @@
+.blue {
+    background-color: #1c3b5f;
+    background-image: linear-gradient(to right, #091d36 , #2a5788);
+}
+.blue:hover, .btn-primary:active, .btn-primary:visited {
+    background-image: linear-gradient(to right, #133f75 , #3e7fc5);
+}
+.nav-blue {
+    background-color: #1c3b5f;
+    background-image: linear-gradient(to right, #091d36 , #2a5788);
+}
